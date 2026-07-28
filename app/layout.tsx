@@ -1,5 +1,5 @@
 import './globals.css';
-import type { Metadata } from 'react';
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '에어시트 코리아',
